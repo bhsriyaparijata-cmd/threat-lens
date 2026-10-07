@@ -1,0 +1,12 @@
+streamlit>=1.32
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+requests>=2.31
+tldextract>=5.1
+reportlab>=4.0
+python-dateutil>=2.8
+
+# Optional (only needed if you configure a local MaxMind database via
+# GEOIP_DB_PATH). The app works without this - see README.md.
+# geoip2>=4.7
